@@ -1,0 +1,6 @@
+# Flappy_Bird
+Il s'agit d'un jeu dans lequel nous avons un oiseau qui doit éviter les tubes. s'il passe entre deux tube, le joueur gagne un point. S'il heurte un tube ou touche le sol le jeu s'arrête 
+
+Le dossier img contient l'ensemble des images qui sont utilisé dans le jeu a savoir les images de l'oiseau dans ses différentes positions, l'image de l'arrière plan, des tubes, du sol et du boutton restart
+
+le dossier sound contient les musiques utilisé dans le jeu. On a l'interieure le son de l'oiseau qui volle, de l'oiseau qui se heurte et le son de l'environnement
